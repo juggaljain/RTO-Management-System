@@ -1,4 +1,4 @@
-This code is written by Sachin Gupta and team mates .
+This code is written by Jugal Jain.
 
 It is based on  html and php.
 
